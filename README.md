@@ -1,3 +1,4 @@
+# Churn Prediction on User Log Data with Spark
 ## Project Overview
 
 Sparkify is a music streaming service like Spotify. In this project, we try to find out insights from Sparkify's user log data and do churn prediction.
